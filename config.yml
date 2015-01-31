@@ -1,0 +1,9 @@
+---
+template_dir: templates
+listen_port: 8888
+use_memcache: True
+memcache:
+ host: 127.0.0.1
+ port: 11211
+static_url: /static/
+cookie_secret: AABBBcccddddEEEEffff
